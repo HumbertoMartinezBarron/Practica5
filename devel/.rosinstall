@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/robotica/lab_principios_jch/catkin_ws/devel/setup.sh

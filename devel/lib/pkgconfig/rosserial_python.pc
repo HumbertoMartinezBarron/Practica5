@@ -1,0 +1,8 @@
+prefix=/home/robotica/lab_principios_jch/catkin_ws/devel
+
+Name: rosserial_python
+Description: Description of rosserial_python
+Version: 0.8.0
+Cflags: 
+Libs: -L/home/robotica/lab_principios_jch/catkin_ws/devel/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/robotica/lab_principios_jch/catkin_ws/install
+
+Name: controla_led
+Description: Description of controla_led
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/robotica/lab_principios_jch/catkin_ws/install/lib 
+Requires: 
